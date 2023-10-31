@@ -1,7 +1,8 @@
 #include "sort.h"
 
 /**
- *
+ * insertion_sort_list - sorts a dll using the Insertion sort algorithm.
+ * @list: the ithe retfvbsorts a doubly linked list of integers in ascen
  */
 void insertion_sort_list(listint_t **list)
 {
